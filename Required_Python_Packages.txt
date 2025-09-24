@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-CORS
+PyMySQL
+
+
+#code for install.........
+pip install flask flask-sqlalchemy flask-cors
+
+pip install ipywidgets pandas requests   
+
+pip install pymysql
